@@ -1,4 +1,4 @@
-# FMT.DeadSpaceePlugin
+# FMT.DeadSpacePlugin
 
 This is a plugin for FMT that allows you to edit and load mod files within Dead Space
 
