@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="FMT_PRO" />
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="DeadSpacePlugin.csproj" />
+</Solution>

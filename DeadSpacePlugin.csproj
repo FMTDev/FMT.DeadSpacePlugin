@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<TargetFramework>net10.0-windows</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+    <Configurations>Debug;Release;FMT_PRO</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FMT.Compilers" Version="2026.2.1" />
+    <PackageReference Include="FMT.Core" Version="2026.9.2" />
+  </ItemGroup>
+
+</Project>

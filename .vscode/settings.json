@@ -1,0 +1,9 @@
+{
+    "dotnet.defaultSolution": "DeadSpacePlugin.slnx",
+    "omnisharp.enableRoslynAnalyzers": true,
+    "omnisharp.enableEditorConfigSupport": true,
+    "files.exclude": {
+        "**/bin/**": true,
+        "**/obj/**": true
+    }
+}
