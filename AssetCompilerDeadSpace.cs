@@ -2,7 +2,7 @@
 using FMT.PluginInterfaces;
 using FrostySdk.Frostbite.Compilers;
 
-namespace NFSUnboundPlugin
+namespace DeadSpacePlugin
 {
 
     public class AssetCompilerDeadSpace : Frostbite2022AssetCompiler, IAssetCompiler

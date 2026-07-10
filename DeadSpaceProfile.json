@@ -1,7 +1,10 @@
 {
   "Name": "DeadSpace",
+  "SDKFilename": "DeadSpaceSDK",
   "DisplayName": "Dead Space (2023)",
   "DataVersion": 20230127,
+  "RegistryPath": "SOFTWARE\\EA Games\\Dead Space (2023)\\",
+  "ExecutableName": "Dead Space",
   "CacheName": "DeadSpace",
   "Deobfuscator": "NullDeobfuscator",
   "AssetLoader": "AssetLoaderDeadSpace",
@@ -62,19 +65,18 @@
   "MustAddChunks": false,
   "EnableExecution": true,
   "CanImportMeshes": false,
-  "CanExportMeshes": false,
+  "CanExportMeshes": true,
   // GeometryDeclarationDesc stream count
   "GDDMaxStreams": 16,
   "CompressedFormatEBX": "Oodle",
   "CompressedFormatRES": "Oodle",
   "CompressedFormatChunk": "Oodle",
   "CompressedFormatLegacy": "Oodle",
-  "LegacyFileManager": "ChunkFileManager2022",
+  "LegacyFileManager": null,
   "CanUseModData": true,
   "ForceUseModData": true,
-  "SupportLowMemoryFootprint": true,
   "GameIdentifier": 16115019,
   "UseACBypass": false,
-  "EADesktopCommandLineSetting": "user.gamecommandline.origin.ofr.50.0005095"
-
+  "EADesktopCommandLineSetting": "user.gamecommandline.origin.ofr.50.0005095",
+  "SDKGeneratesUsingExeStringDump": true
 }
