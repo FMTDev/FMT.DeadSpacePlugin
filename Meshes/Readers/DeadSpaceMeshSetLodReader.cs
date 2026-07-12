@@ -5,7 +5,7 @@ using FMT.PluginInterfaces;
 using System;
 using System.Collections.Generic;
 
-namespace DeadSpacePlugin.Meshes
+namespace DeadSpacePlugin.Meshes.Readers
 {
     public class DeadSpaceMeshSetLodReader
     {

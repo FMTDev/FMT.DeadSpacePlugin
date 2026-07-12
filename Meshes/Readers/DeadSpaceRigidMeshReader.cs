@@ -3,7 +3,7 @@ using FMT.FileTools;
 using FMT.PluginInterfaces;
 using FMT.PluginInterfaces.Meshes;
 
-namespace DeadSpacePlugin.Meshes
+namespace DeadSpacePlugin.Meshes.Readers
 {
     internal class DeadSpaceRigidMeshReader
     {

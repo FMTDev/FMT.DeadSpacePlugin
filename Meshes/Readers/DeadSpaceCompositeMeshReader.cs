@@ -1,7 +1,7 @@
 ﻿using FMT.Core.Meshes;
 using FMT.FileTools;
 
-namespace DeadSpacePlugin.Meshes
+namespace DeadSpacePlugin.Meshes.Readers
 {
     public class DeadSpaceCompositeMeshReader
     {
