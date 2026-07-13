@@ -27,7 +27,7 @@ namespace DeadSpacePlugin
                 Bundles = bundles;
             }
         }
-
+         
         private IAssetManagementService assetManagementService => SingletonService.GetInstance<IAssetManagementService>();
         private IFileSystemService fss => SingletonService.GetInstance<IFileSystemService>();
 
