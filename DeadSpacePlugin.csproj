@@ -7,8 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="FMT.Compilers" Version="2026.12.0" />
-    <PackageReference Include="FMT.Core" Version="2026.14.1" />
+    <PackageReference Include="FMT.Compilers" Version="2026.13.3" />
+    <PackageReference Include="FMT.Core" Version="2026.16.4" />
+    <PackageReference Include="FMT.Models.Assets" Version="2026.14.1" />
   </ItemGroup>
 
 </Project>
